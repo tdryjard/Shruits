@@ -1,0 +1,18 @@
+:root {
+    --black: #222;
+    --light-gray: #F1F1F1;
+    --green: #96b125;
+    --dark-green: #457d00;
+    --lime: #c6c736;
+    --carrot: #ffc13b;
+    --dark-carrot: #e99d3a;
+    --beige: #fcec9a;
+    --ghost: rgba(95, 95, 95, 0.5);
+    --tomato: #FF6347;
+    --violet: #4e3b7b;
+    --yellow: #f9d44f;
+    --blue: rgb(55, 123, 187);
+
+    /* Dimensions */
+    --navbar-height: 64px;
+}
